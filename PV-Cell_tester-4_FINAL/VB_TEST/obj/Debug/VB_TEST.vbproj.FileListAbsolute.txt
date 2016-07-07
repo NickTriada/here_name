@@ -1,0 +1,121 @@
+C:\Users\NickTriada\Documents\Visual Studio 2015\Projects\VB_TEST\VB_TEST\bin\Debug\VB_TEST.exe.config
+C:\Users\NickTriada\Documents\Visual Studio 2015\Projects\VB_TEST\VB_TEST\bin\Debug\VB_TEST.exe
+C:\Users\NickTriada\Documents\Visual Studio 2015\Projects\VB_TEST\VB_TEST\bin\Debug\VB_TEST.pdb
+C:\Users\NickTriada\Documents\Visual Studio 2015\Projects\VB_TEST\VB_TEST\bin\Debug\VB_TEST.xml
+C:\Users\NickTriada\Documents\Visual Studio 2015\Projects\VB_TEST\VB_TEST\obj\Debug\VB_TEST.vbprojResolveAssemblyReference.cache
+C:\Users\NickTriada\Documents\Visual Studio 2015\Projects\VB_TEST\VB_TEST\obj\Debug\VB_TEST.Form1.resources
+C:\Users\NickTriada\Documents\Visual Studio 2015\Projects\VB_TEST\VB_TEST\obj\Debug\VB_TEST.Resources.resources
+C:\Users\NickTriada\Documents\Visual Studio 2015\Projects\VB_TEST\VB_TEST\obj\Debug\VB_TEST.vbproj.GenerateResource.Cache
+C:\Users\NickTriada\Documents\Visual Studio 2015\Projects\VB_TEST\VB_TEST\obj\Debug\VB_TEST.exe
+C:\Users\NickTriada\Documents\Visual Studio 2015\Projects\VB_TEST\VB_TEST\obj\Debug\VB_TEST.xml
+C:\Users\NickTriada\Documents\Visual Studio 2015\Projects\VB_TEST\VB_TEST\obj\Debug\VB_TEST.pdb
+C:\Users\NickTriada\Documents\Visual Studio 2015\Projects\VB_TEST\VB_TEST.exe.config
+C:\Users\mpashkevych\Documents\Visual Studio 2015\Projects\tetete\VB_TEST_new\VB_TEST\obj\Debug\VB_TEST.vbprojResolveAssemblyReference.cache
+C:\Users\mpashkevych\Documents\Visual Studio 2015\Projects\tetete\VB_TEST_new\VB_TEST\obj\Debug\VB_TEST.Resources.resources
+C:\Users\mpashkevych\Documents\Visual Studio 2015\Projects\tetete\VB_TEST_new\VB_TEST\obj\Debug\VB_TEST.vbproj.GenerateResource.Cache
+C:\Users\mpashkevych\Documents\Visual Studio 2015\Projects\tetete\VB_TEST_new\VB_TEST\obj\Debug\VB_TEST.Form11.resources
+C:\Users\mpashkevych\Documents\Visual Studio 2015\Projects\tetete\VB_TEST_new\VB_TEST\bin\Debug\VB_TEST_NEW.exe.config
+C:\Users\mpashkevych\Documents\Visual Studio 2015\Projects\tetete\VB_TEST_new\VB_TEST\bin\Debug\VB_TEST_NEW.exe.manifest
+C:\Users\mpashkevych\Documents\Visual Studio 2015\Projects\tetete\VB_TEST_new\VB_TEST\bin\Debug\VB_TEST_NEW.application
+C:\Users\mpashkevych\Documents\Visual Studio 2015\Projects\tetete\VB_TEST_new\VB_TEST\bin\Debug\VB_TEST_NEW.exe
+C:\Users\mpashkevych\Documents\Visual Studio 2015\Projects\tetete\VB_TEST_new\VB_TEST\bin\Debug\VB_TEST_NEW.pdb
+C:\Users\mpashkevych\Documents\Visual Studio 2015\Projects\tetete\VB_TEST_new\VB_TEST\bin\Debug\VB_TEST_NEW.xml
+C:\Users\mpashkevych\Documents\Visual Studio 2015\Projects\tetete\VB_TEST_new\VB_TEST\obj\Debug\VB_TEST_NEW.exe.manifest
+C:\Users\mpashkevych\Documents\Visual Studio 2015\Projects\tetete\VB_TEST_new\VB_TEST\obj\Debug\VB_TEST_NEW.application
+C:\Users\mpashkevych\Documents\Visual Studio 2015\Projects\tetete\VB_TEST_new\VB_TEST\obj\Debug\VB_TEST_NEW.exe
+C:\Users\mpashkevych\Documents\Visual Studio 2015\Projects\tetete\VB_TEST_new\VB_TEST\obj\Debug\VB_TEST_NEW.xml
+C:\Users\mpashkevych\Documents\Visual Studio 2015\Projects\tetete\VB_TEST_new\VB_TEST\obj\Debug\VB_TEST_NEW.pdb
+C:\Users\mpashkevych\Documents\Visual Studio 2015\Projects\tetete\VB_TEST_new\VB_TEST\obj\Debug\VB_TEST.Form_stat.resources
+C:\Users\mpashkevych\Documents\Visual Studio 2015\Projects\ORIGINAL_REFER\VB_TEST_last_ref_\VB_TEST\bin\Debug\VB_TEST_NEW.exe.config
+C:\Users\mpashkevych\Documents\Visual Studio 2015\Projects\ORIGINAL_REFER\VB_TEST_last_ref_\VB_TEST\obj\Debug\VB_TEST_NEW.exe
+C:\Users\mpashkevych\Documents\Visual Studio 2015\Projects\ORIGINAL_REFER\VB_TEST_last_ref_\VB_TEST\obj\Debug\VB_TEST_NEW.xml
+C:\Users\mpashkevych\Documents\Visual Studio 2015\Projects\ORIGINAL_REFER\VB_TEST_last_ref_\VB_TEST\obj\Debug\VB_TEST_NEW.pdb
+C:\Users\mpashkevych\Documents\Visual Studio 2015\Projects\ORIGINAL_REFER - Copy\VB_TEST_last_ref_\VB_TEST\obj\Debug\VB_TEST.vbprojResolveAssemblyReference.cache
+C:\Users\mpashkevych\Documents\Visual Studio 2015\Projects\ORIGINAL_REFER - Copy\VB_TEST_last_ref_\VB_TEST\obj\Debug\VB_TEST.Form11.resources
+C:\Users\mpashkevych\Documents\Visual Studio 2015\Projects\ORIGINAL_REFER - Copy\VB_TEST_last_ref_\VB_TEST\obj\Debug\VB_TEST.Form_stat.resources
+C:\Users\mpashkevych\Documents\Visual Studio 2015\Projects\ORIGINAL_REFER - Copy\VB_TEST_last_ref_\VB_TEST\obj\Debug\VB_TEST.Resources.resources
+C:\Users\mpashkevych\Documents\Visual Studio 2015\Projects\ORIGINAL_REFER - Copy\VB_TEST_last_ref_\VB_TEST\obj\Debug\VB_TEST.vbproj.GenerateResource.Cache
+C:\Users\mpashkevych\Documents\Visual Studio 2015\Projects\ORIGINAL_REFER - Copy\VB_TEST_last_ref_\VB_TEST\obj\Debug\VB_TEST.Form_info.resources
+C:\Users\mpashkevych\Documents\Visual Studio 2015\Projects\ORIGINAL_REFER - Copy\VB_TEST_last_ref_\VB_TEST\bin\Debug\PV Tester-58.exe.config
+C:\Users\mpashkevych\Documents\Visual Studio 2015\Projects\ORIGINAL_REFER - Copy\VB_TEST_last_ref_\VB_TEST\bin\Debug\PV Tester-58.exe.manifest
+C:\Users\mpashkevych\Documents\Visual Studio 2015\Projects\ORIGINAL_REFER - Copy\VB_TEST_last_ref_\VB_TEST\bin\Debug\PV Tester-58.application
+C:\Users\mpashkevych\Documents\Visual Studio 2015\Projects\ORIGINAL_REFER - Copy\VB_TEST_last_ref_\VB_TEST\bin\Debug\PV Tester-58.exe
+C:\Users\mpashkevych\Documents\Visual Studio 2015\Projects\ORIGINAL_REFER - Copy\VB_TEST_last_ref_\VB_TEST\bin\Debug\PV Tester-58.pdb
+C:\Users\mpashkevych\Documents\Visual Studio 2015\Projects\ORIGINAL_REFER - Copy\VB_TEST_last_ref_\VB_TEST\bin\Debug\PV Tester-58.xml
+C:\Users\mpashkevych\Documents\Visual Studio 2015\Projects\ORIGINAL_REFER - Copy\VB_TEST_last_ref_\VB_TEST\obj\Debug\PV Tester-58.exe.manifest
+C:\Users\mpashkevych\Documents\Visual Studio 2015\Projects\ORIGINAL_REFER - Copy\VB_TEST_last_ref_\VB_TEST\obj\Debug\PV Tester-58.application
+C:\Users\mpashkevych\Documents\Visual Studio 2015\Projects\ORIGINAL_REFER - Copy\VB_TEST_last_ref_\VB_TEST\obj\Debug\PV Tester-58.exe
+C:\Users\mpashkevych\Documents\Visual Studio 2015\Projects\ORIGINAL_REFER - Copy\VB_TEST_last_ref_\VB_TEST\obj\Debug\PV Tester-58.xml
+C:\Users\mpashkevych\Documents\Visual Studio 2015\Projects\ORIGINAL_REFER - Copy\VB_TEST_last_ref_\VB_TEST\obj\Debug\PV Tester-58.pdb
+C:\Users\mpashkevych\Documents\Visual Studio 2015\Projects\ORIGINAL_REFER - Copy\ALLINONE\VB_TEST\obj\Debug\VB_TEST.vbprojResolveAssemblyReference.cache
+C:\Users\mpashkevych\Documents\Visual Studio 2015\Projects\ORIGINAL_REFER - Copy\ALLINONE\VB_TEST\obj\Debug\VB_TEST.Form11.resources
+C:\Users\mpashkevych\Documents\Visual Studio 2015\Projects\ORIGINAL_REFER - Copy\ALLINONE\VB_TEST\obj\Debug\VB_TEST.Form_stat.resources
+C:\Users\mpashkevych\Documents\Visual Studio 2015\Projects\ORIGINAL_REFER - Copy\ALLINONE\VB_TEST\obj\Debug\VB_TEST.Form_info.resources
+C:\Users\mpashkevych\Documents\Visual Studio 2015\Projects\ORIGINAL_REFER - Copy\ALLINONE\VB_TEST\obj\Debug\VB_TEST.Resources.resources
+C:\Users\mpashkevych\Documents\Visual Studio 2015\Projects\ORIGINAL_REFER - Copy\ALLINONE\VB_TEST\obj\Debug\VB_TEST.vbproj.GenerateResource.Cache
+C:\Users\mpashkevych\Documents\Visual Studio 2015\Projects\ORIGINAL_REFER - Copy\ALLINONE\VB_TEST\bin\Debug\PV TESTER_2_0.exe.config
+C:\Users\mpashkevych\Documents\Visual Studio 2015\Projects\ORIGINAL_REFER - Copy\ALLINONE\VB_TEST\bin\Debug\PV TESTER_2_0.exe.manifest
+C:\Users\mpashkevych\Documents\Visual Studio 2015\Projects\ORIGINAL_REFER - Copy\ALLINONE\VB_TEST\bin\Debug\PV TESTER_2_0.application
+C:\Users\mpashkevych\Documents\Visual Studio 2015\Projects\ORIGINAL_REFER - Copy\ALLINONE\VB_TEST\bin\Debug\PV TESTER_2_0.exe
+C:\Users\mpashkevych\Documents\Visual Studio 2015\Projects\ORIGINAL_REFER - Copy\ALLINONE\VB_TEST\bin\Debug\PV TESTER_2_0.pdb
+C:\Users\mpashkevych\Documents\Visual Studio 2015\Projects\ORIGINAL_REFER - Copy\ALLINONE\VB_TEST\bin\Debug\PV TESTER_2_0.xml
+C:\Users\mpashkevych\Documents\Visual Studio 2015\Projects\ORIGINAL_REFER - Copy\ALLINONE\VB_TEST\obj\Debug\PV TESTER_2_0.exe.manifest
+C:\Users\mpashkevych\Documents\Visual Studio 2015\Projects\ORIGINAL_REFER - Copy\ALLINONE\VB_TEST\obj\Debug\PV TESTER_2_0.application
+C:\Users\mpashkevych\Documents\Visual Studio 2015\Projects\ORIGINAL_REFER - Copy\ALLINONE\VB_TEST\obj\Debug\PV TESTER_2_0.exe
+C:\Users\mpashkevych\Documents\Visual Studio 2015\Projects\ORIGINAL_REFER - Copy\ALLINONE\VB_TEST\obj\Debug\PV TESTER_2_0.xml
+C:\Users\mpashkevych\Documents\Visual Studio 2015\Projects\ORIGINAL_REFER - Copy\ALLINONE\VB_TEST\obj\Debug\PV TESTER_2_0.pdb
+C:\Users\mpashkevych\Documents\Visual Studio 2015\Projects\ORIGINAL_REFER - Copy\ALLINONE - MODYFI\VB_TEST\obj\Debug\VB_TEST.vbprojResolveAssemblyReference.cache
+C:\Users\mpashkevych\Documents\Visual Studio 2015\Projects\ORIGINAL_REFER - Copy\ALLINONE - MODYFI\VB_TEST\obj\Debug\VB_TEST.vbproj.GenerateResource.Cache
+C:\Users\mpashkevych\Documents\Visual Studio 2015\Projects\ORIGINAL_REFER - Copy\ALLINONE - MODYFI\VB_TEST\bin\Debug\PV TESTER_2_0_sm.exe.config
+C:\Users\mpashkevych\Documents\Visual Studio 2015\Projects\ORIGINAL_REFER - Copy\ALLINONE - MODYFI\VB_TEST\bin\Debug\PV TESTER_2_0_sm.exe.manifest
+C:\Users\mpashkevych\Documents\Visual Studio 2015\Projects\ORIGINAL_REFER - Copy\ALLINONE - MODYFI\VB_TEST\bin\Debug\PV TESTER_2_0_sm.application
+C:\Users\mpashkevych\Documents\Visual Studio 2015\Projects\ORIGINAL_REFER - Copy\ALLINONE - MODYFI\VB_TEST\bin\Debug\PV TESTER_2_0_sm.exe
+C:\Users\mpashkevych\Documents\Visual Studio 2015\Projects\ORIGINAL_REFER - Copy\ALLINONE - MODYFI\VB_TEST\bin\Debug\PV TESTER_2_0_sm.pdb
+C:\Users\mpashkevych\Documents\Visual Studio 2015\Projects\ORIGINAL_REFER - Copy\ALLINONE - MODYFI\VB_TEST\bin\Debug\PV TESTER_2_0_sm.xml
+C:\Users\mpashkevych\Documents\Visual Studio 2015\Projects\ORIGINAL_REFER - Copy\ALLINONE - MODYFI\VB_TEST\obj\Debug\PVT2sm.Form11.resources
+C:\Users\mpashkevych\Documents\Visual Studio 2015\Projects\ORIGINAL_REFER - Copy\ALLINONE - MODYFI\VB_TEST\obj\Debug\PVT2sm.Form_stat.resources
+C:\Users\mpashkevych\Documents\Visual Studio 2015\Projects\ORIGINAL_REFER - Copy\ALLINONE - MODYFI\VB_TEST\obj\Debug\PVT2sm.Form_info.resources
+C:\Users\mpashkevych\Documents\Visual Studio 2015\Projects\ORIGINAL_REFER - Copy\ALLINONE - MODYFI\VB_TEST\obj\Debug\PVT2sm.Resources.resources
+C:\Users\mpashkevych\Documents\Visual Studio 2015\Projects\ORIGINAL_REFER - Copy\ALLINONE - MODYFI\VB_TEST\obj\Debug\PV TESTER_2_0_sm.exe.manifest
+C:\Users\mpashkevych\Documents\Visual Studio 2015\Projects\ORIGINAL_REFER - Copy\ALLINONE - MODYFI\VB_TEST\obj\Debug\PV TESTER_2_0_sm.application
+C:\Users\mpashkevych\Documents\Visual Studio 2015\Projects\ORIGINAL_REFER - Copy\ALLINONE - MODYFI\VB_TEST\obj\Debug\PV TESTER_2_0_sm.exe
+C:\Users\mpashkevych\Documents\Visual Studio 2015\Projects\ORIGINAL_REFER - Copy\ALLINONE - MODYFI\VB_TEST\obj\Debug\PV TESTER_2_0_sm.xml
+C:\Users\mpashkevych\Documents\Visual Studio 2015\Projects\ORIGINAL_REFER - Copy\ALLINONE - MODYFI\VB_TEST\obj\Debug\PV TESTER_2_0_sm.pdb
+C:\Users\mpashkevych\Documents\Visual Studio 2015\Projects\ORIGINAL_REFER - Copy\ALLINONE - MODYFI_NEW\VB_TEST\obj\Debug\VB_TEST.vbprojResolveAssemblyReference.cache
+C:\Users\mpashkevych\Documents\Visual Studio 2015\Projects\ORIGINAL_REFER - Copy\ALLINONE - MODYFI_NEW\VB_TEST\obj\Debug\VB_TEST.vbproj.GenerateResource.Cache
+C:\Users\mpashkevych\Documents\Visual Studio 2015\Projects\ORIGINAL_REFER - Copy\ALLINONE - MODYFI_NEW\VB_TEST\obj\Debug\PVT3sm.Form11.resources
+C:\Users\mpashkevych\Documents\Visual Studio 2015\Projects\ORIGINAL_REFER - Copy\ALLINONE - MODYFI_NEW\VB_TEST\obj\Debug\PVT3sm.Form_stat.resources
+C:\Users\mpashkevych\Documents\Visual Studio 2015\Projects\ORIGINAL_REFER - Copy\ALLINONE - MODYFI_NEW\VB_TEST\obj\Debug\PVT3sm.Form_info.resources
+C:\Users\mpashkevych\Documents\Visual Studio 2015\Projects\ORIGINAL_REFER - Copy\ALLINONE - MODYFI_NEW\VB_TEST\obj\Debug\PVT3sm.Resources.resources
+C:\Users\mpashkevych\Documents\Visual Studio 2015\Projects\ORIGINAL_REFER - Copy\ALLINONE - MODYFI_NEW\VB_TEST\bin\Debug\PV TESTER-3-statistical.exe.config
+C:\Users\mpashkevych\Documents\Visual Studio 2015\Projects\ORIGINAL_REFER - Copy\ALLINONE - MODYFI_NEW\VB_TEST\bin\Debug\PV TESTER-3-statistical.exe.manifest
+C:\Users\mpashkevych\Documents\Visual Studio 2015\Projects\ORIGINAL_REFER - Copy\ALLINONE - MODYFI_NEW\VB_TEST\bin\Debug\PV TESTER-3-statistical.application
+C:\Users\mpashkevych\Documents\Visual Studio 2015\Projects\ORIGINAL_REFER - Copy\ALLINONE - MODYFI_NEW\VB_TEST\bin\Debug\PV TESTER-3-statistical.exe
+C:\Users\mpashkevych\Documents\Visual Studio 2015\Projects\ORIGINAL_REFER - Copy\ALLINONE - MODYFI_NEW\VB_TEST\bin\Debug\PV TESTER-3-statistical.pdb
+C:\Users\mpashkevych\Documents\Visual Studio 2015\Projects\ORIGINAL_REFER - Copy\ALLINONE - MODYFI_NEW\VB_TEST\bin\Debug\PV TESTER-3-statistical.xml
+C:\Users\mpashkevych\Documents\Visual Studio 2015\Projects\ORIGINAL_REFER - Copy\ALLINONE - MODYFI_NEW\VB_TEST\obj\Debug\PV TESTER-3-statistical.exe.manifest
+C:\Users\mpashkevych\Documents\Visual Studio 2015\Projects\ORIGINAL_REFER - Copy\ALLINONE - MODYFI_NEW\VB_TEST\obj\Debug\PV TESTER-3-statistical.application
+C:\Users\mpashkevych\Documents\Visual Studio 2015\Projects\ORIGINAL_REFER - Copy\ALLINONE - MODYFI_NEW\VB_TEST\obj\Debug\PV TESTER-3-statistical.exe
+C:\Users\mpashkevych\Documents\Visual Studio 2015\Projects\ORIGINAL_REFER - Copy\ALLINONE - MODYFI_NEW\VB_TEST\obj\Debug\PV TESTER-3-statistical.xml
+C:\Users\mpashkevych\Documents\Visual Studio 2015\Projects\ORIGINAL_REFER - Copy\ALLINONE - MODYFI_NEW\VB_TEST\obj\Debug\PV TESTER-3-statistical.pdb
+C:\Users\mpashkevych\Documents\Visual Studio 2015\Projects\ORIGINAL_REFER - Copy\1ALL - STATIST_ABC\VB_TEST\obj\Debug\VB_TEST.vbprojResolveAssemblyReference.cache
+C:\Users\mpashkevych\Documents\Visual Studio 2015\Projects\ORIGINAL_REFER - Copy\1ALL - STATIST_ABC\VB_TEST\obj\Debug\VB_TEST.vbproj.GenerateResource.Cache
+C:\Users\mpashkevych\Documents\Visual Studio 2015\Projects\ORIGINAL_REFER - Copy\1ALL - STATIST_ABC\VB_TEST\bin\Debug\PV TESTER-3-ABC-statistical.exe.config
+C:\Users\mpashkevych\Documents\Visual Studio 2015\Projects\ORIGINAL_REFER - Copy\1ALL - STATIST_ABC\VB_TEST\bin\Debug\PV TESTER-3-ABC-statistical.exe.manifest
+C:\Users\mpashkevych\Documents\Visual Studio 2015\Projects\ORIGINAL_REFER - Copy\1ALL - STATIST_ABC\VB_TEST\bin\Debug\PV TESTER-3-ABC-statistical.application
+C:\Users\mpashkevych\Documents\Visual Studio 2015\Projects\ORIGINAL_REFER - Copy\1ALL - STATIST_ABC\VB_TEST\bin\Debug\PV TESTER-3-ABC-statistical.exe
+C:\Users\mpashkevych\Documents\Visual Studio 2015\Projects\ORIGINAL_REFER - Copy\1ALL - STATIST_ABC\VB_TEST\bin\Debug\PV TESTER-3-ABC-statistical.pdb
+C:\Users\mpashkevych\Documents\Visual Studio 2015\Projects\ORIGINAL_REFER - Copy\1ALL - STATIST_ABC\VB_TEST\bin\Debug\PV TESTER-3-ABC-statistical.xml
+C:\Users\mpashkevych\Documents\Visual Studio 2015\Projects\ORIGINAL_REFER - Copy\1ALL - STATIST_ABC\VB_TEST\obj\Debug\PVT3smABCstat.Form11.resources
+C:\Users\mpashkevych\Documents\Visual Studio 2015\Projects\ORIGINAL_REFER - Copy\1ALL - STATIST_ABC\VB_TEST\obj\Debug\PVT3smABCstat.Form_stat.resources
+C:\Users\mpashkevych\Documents\Visual Studio 2015\Projects\ORIGINAL_REFER - Copy\1ALL - STATIST_ABC\VB_TEST\obj\Debug\PVT3smABCstat.Form_info.resources
+C:\Users\mpashkevych\Documents\Visual Studio 2015\Projects\ORIGINAL_REFER - Copy\1ALL - STATIST_ABC\VB_TEST\obj\Debug\PVT3smABCstat.Resources.resources
+C:\Users\mpashkevych\Documents\Visual Studio 2015\Projects\ORIGINAL_REFER - Copy\1ALL - STATIST_ABC\VB_TEST\obj\Debug\PV TESTER-3-ABC-statistical.exe.manifest
+C:\Users\mpashkevych\Documents\Visual Studio 2015\Projects\ORIGINAL_REFER - Copy\1ALL - STATIST_ABC\VB_TEST\obj\Debug\PV TESTER-3-ABC-statistical.application
+C:\Users\mpashkevych\Documents\Visual Studio 2015\Projects\ORIGINAL_REFER - Copy\1ALL - STATIST_ABC\VB_TEST\obj\Debug\PV TESTER-3-ABC-statistical.exe
+C:\Users\mpashkevych\Documents\Visual Studio 2015\Projects\ORIGINAL_REFER - Copy\1ALL - STATIST_ABC\VB_TEST\obj\Debug\PV TESTER-3-ABC-statistical.xml
+C:\Users\mpashkevych\Documents\Visual Studio 2015\Projects\ORIGINAL_REFER - Copy\1ALL - STATIST_ABC\VB_TEST\obj\Debug\PV TESTER-3-ABC-statistical.pdb
+C:\Users\mpashkevych\Documents\Visual Studio 2015\Projects\New folder\PV-Cell_tester-4\VB_TEST\bin\Debug\PV TESTER-3-ABC-statistical.exe.config
+C:\Users\mpashkevych\Documents\Visual Studio 2015\Projects\New folder\PV-Cell_tester-4\VB_TEST\obj\Debug\PV TESTER-3-ABC-statistical.exe
+C:\Users\mpashkevych\Documents\Visual Studio 2015\Projects\New folder\PV-Cell_tester-4\VB_TEST\obj\Debug\PV TESTER-3-ABC-statistical.xml
+C:\Users\mpashkevych\Documents\Visual Studio 2015\Projects\New folder\PV-Cell_tester-4\VB_TEST\obj\Debug\PV TESTER-3-ABC-statistical.pdb
